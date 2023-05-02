@@ -1,4 +1,4 @@
-# Amazon Shopping Reviews Ranking
+# Amazon Shopping Reviews Classification
 
 This notebook presents an example of sorting Amazon shopping reviews using the TensorFlow library.
 This dataset contains 3,594,782 training samples and 399,916 testing samples in each polarity sentiment, but in this example, only a subset with 100,000 reviews will be used.

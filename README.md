@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Amazon Shopping Reviews Classification
 
 This notebook presents an example of sorting Amazon shopping reviews using the TensorFlow library.
